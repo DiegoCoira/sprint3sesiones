@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function() {
 	document.getElementById("login").addEventListener('submit', validarFormulario);
-	]);
+	});
 
 	functionvalidarFormulario(evento) {
 		evento.preventDefault();
